@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name">TriviaApp</string>
+    <string name="que1">What is the sp unit used in?</string>
+    <string name="que2">What is LinearLayout?</string>
+    <string name="que3">Is it an open source compilation automation tool:</string>
+    <string name="button">Submit</string>
 </resources>

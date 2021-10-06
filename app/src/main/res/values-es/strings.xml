@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TriviaApp</string>
+    <string name="que1">¿En que se usa la unidad sp?</string>
+    <string name="que2">¿Que es LinearLayout?</string>
+    <string name="que3">Es una herramienta  que permite la automatización de compilación de código abierto:</string>
+    <string name="button">Siguiente Pregunta</string>
+
+</resources>
